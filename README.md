@@ -56,8 +56,8 @@ Dataset sourced from Goodreads (Kaggle).
 
 ## ▶️ How to Run
 
-### 1. Install Dependencies
 ```bash
+1. Install Dependencies
 pip install pandas scikit-learn
 2. Run the Program
 python recom.py
