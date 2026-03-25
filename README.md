@@ -79,14 +79,14 @@ Great Expectations ⭐ 3.8
 The Tenant of Wildfell Hall ⭐ 4.1  
 Rebecca ⭐ 4.2  
 ```
-🧠 Key Concepts Used
-Content-Based Filtering
-Text Vectorization
-Cosine Similarity
-Data Merging & Aggregation
+📌Key Concepts Used
+- Content-Based Filtering  
+- Text Vectorization  
+- Cosine Similarity  
+- Data Merging & Aggregation  
 
-🔮 Future Improvements
-Improve matching (user selects exact book instead of auto-pick)
-Use TF-IDF instead of CountVectorizer
-Build a web interface (Streamlit/Flask)
-Add filtering by genre, rating, or author
+ 🧠Future Improvements
+- Improve matching (user selects exact book instead of auto-pick)  
+- Use TF-IDF instead of CountVectorizer  
+- Build a web interface (Streamlit/Flask)  
+- Add filtering by genre, rating, or author  
