@@ -78,7 +78,7 @@ Pride and Prejudice ⭐ 4.3
 Great Expectations ⭐ 3.8  
 The Tenant of Wildfell Hall ⭐ 4.1  
 Rebecca ⭐ 4.2  
-
+```
 🧠 Key Concepts Used
 Content-Based Filtering
 Text Vectorization
